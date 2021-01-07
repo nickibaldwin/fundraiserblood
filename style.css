@@ -1,0 +1,37 @@
+body {
+    background-color: #d9babf;
+}
+
+header {
+    background-color: #7a303c;
+    text-align: center;
+    padding: 50px;
+    
+}
+
+section {
+    background-color:#d9babf;
+    text-align: center;
+    border: solid black 1px
+}
+
+li{
+    display: inline;
+}
+
+#hero {
+    width: 600px;
+    border: solid black 2px;
+}
+
+.other_pictures {
+    border: solid black 1px;
+    width: 400px;
+}
+
+footer {
+    background-color: #b6888f;
+    text-align: center;
+    padding: 50px;
+
+}
