@@ -1,4 +1,8 @@
-let userName = prompt('Please Enter Your Name');
+function askUserName(){
+    let userName = prompt('Please Enter Your Name');
 
-document.write(userName)
+    document.write(userName)
+    return userName
+}
 
+let userName = askUserName()
